@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920942741489",
+    "project_id": "flash-chat-2c4ca",
+    "storage_bucket": "flash-chat-2c4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920942741489:android:eb15b112189ed72dfb6650",
+        "android_client_info": {
+          "package_name": "co.chioma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920942741489-p80saa7pvinb6h54lasc5ms2ittp4prq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBieheTzvsb487clKPVgDoI2gyrl2oMbEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920942741489-p80saa7pvinb6h54lasc5ms2ittp4prq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
